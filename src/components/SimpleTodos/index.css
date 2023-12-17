@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffc2a0;
+  border-color: #ff8542;
+  border-width: 5px;
+  border-radius: 5px;
+}
+.sm-container {
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
